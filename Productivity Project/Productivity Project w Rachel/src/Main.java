@@ -4,5 +4,6 @@ public class Main {
     }
 
     int i = 0;
+    System.out.println("Hello");
     
 }
