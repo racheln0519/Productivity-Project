@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="239e7e08-ab5c-4c4d-8f29-de2535ddb705" name="Changes" comment="" />
+    <list default="true" id="239e7e08-ab5c-4c4d-8f29-de2535ddb705" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Productivity Project w Rachel/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Productivity Project w Rachel/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Productivity Project w Rachel/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Productivity Project w Rachel/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Productivity Project w Rachel/Productivity Project w Rachel.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,10 +42,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Bailey Yi/OneDrive/Documents/GitHub/Productivity-Project/Productivity Project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.tools"
+    "settings.editor.selected.configurable": "configurable.group.tools",
+    "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
@@ -55,7 +68,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675622547809</updated>
+      <workItem from="1675624665296" duration="306000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
