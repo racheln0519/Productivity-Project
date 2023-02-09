@@ -19,11 +19,15 @@ public class GUI extends JFrame {
         JPanel panel = new JPanel();
         add(panel);
         panel.add(button);
+
+        pack();
+        setVisible(true);
     }
 
 
 
+
     public static void main(String[] args) {
-        JFrame frame = new JFrame("New Frame");
+        GUI gui = new GUI();
     }
 }
